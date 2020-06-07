@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Dotnet
+namespace ConsoleApp20
 {
     class Program
     {
