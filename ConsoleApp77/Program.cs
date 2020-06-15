@@ -12,7 +12,8 @@ namespace ConsoleApp77
             FileInfo bar = new FileInfo(@"C:\Users\Administrator\Desktop\hello.txt");
             Console.WriteLine(bar.Exists);
             File.Create(@"C:\Users\Administrator\Desktop\bar.txt");
-            
+            FileInfo qux = new FileInfo(@"C:\Users\Administrator\Desktop\test\hello.txt");
+            qux.Create();
         }
     }
 }
