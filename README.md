@@ -1,11 +1,18 @@
 # MicroDotnet
-ConsoleApp1 Hello World
-ConsoleApp2 Hello World
-ConsoleApp3 Hello World
-ConsoleApp4 Hello World
-ConsoleApp5 Hello World
-ConsoleApp6 Hello World
-ConsoleApp7 Hello World
-ConsoleApp8 
-ÐÂ½¨×î»ù±¾µÄÀà²¢½øÐÐÊµÀý»¯ºÍµ÷ÓÃº¯Êý£¬²Î¿¼×Ôrunoob
+
+### About Homework
+
+ç¬¬ä¸€æ¬¡ä½œä¸š: [ConsoleApp79](./ConsoleApp79/Program.cs)    03.20
+
+ç¬¬äºŒæ¬¡ä½œä¸š: [ConsoleApp80](./ConsoleApp80/Program.cs)    03.27
+
+ç¬¬ä¸‰æ¬¡ä½œä¸š: [ConsoleApp83](./ConsoleApp83/Program.cs)    04.03
+
+ç¬¬å››æ¬¡ä½œä¸š: [ConsoleApp81](./ConsoleApp81/Program.cs)    04.10
+
+ç¬¬äº”æ¬¡ä½œä¸š: [ConsoleApp84](./ConsoleApp84/Program.cs)    04.17
+
+ç¬¬å…­æ¬¡ä½œä¸š: [ConsoleApp82](./ConsoleApp82/Program.cs)    04.24
+
+ç¬¬ä¸ƒæ¬¡ä½œä¸š: [ConsoleApp85](./ConsoleApp85/Program.cs)    05.08
 
